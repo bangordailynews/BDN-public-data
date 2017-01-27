@@ -1,0 +1,1 @@
+Annual trade statistics by commodity between New England states and Mexico, accessed Jan. 27, 2017 from the U.S. Census Bureau. Import statistics span from 2008 through November 2016. Export statistics cover 2002 to November 2016. 
