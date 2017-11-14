@@ -2,7 +2,9 @@
 
 These files compile data from the Maine Department of Education's Data Warehouse into one location and include a field to group schools that merged during the period 2007 to 2017. 
 
-The file links a range of data points to individual schools, with rows for each year the DOE recorded that measure. Some pertain only to high schools, such as graduation and college-going rates. 
+The flat file contains a single header row for the data. The labeled data identifies columns with separate labels for school-level dimensions, measures and college-going data processed from PDFs published by the National Student Clearinghouse. 
+
+Both files contain identical data that links a range of data points to individual schools, with rows for each year the DOE recorded that measure. Some pertain only to high schools, such as graduation and college-going rates. 
 
 The files also contain identifying data for the schools, based partly on the [Maine DOE's Open and Closed School Report](https://neo.maine.gov/DOE/neo/Supersearch/ContactSearch/SearchByOpenAndClosedSchools). We geocoded the addresses and added a descriptive field identifying whether the school is closed or set to close, or open indefinitely. 
 
