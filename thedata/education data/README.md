@@ -1,4 +1,4 @@
-### Your School project school-level data
+### Your School project data
 
 These files compile data from the Maine Department of Education's Data Warehouse into one location and include a field to group schools that merged during the period 2007 to 2017. 
 
