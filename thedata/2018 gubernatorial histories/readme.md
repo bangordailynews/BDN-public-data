@@ -16,3 +16,7 @@ We identified contributions to state PACs using the full contribution files [fro
 We pulled contributions to federal political action committees from [OpenSecrets.org](http://opensecrets.org).
 
 The contribution files were joined with data on the candidate's current campaigns, including their party affiliations, financing type and more, also from the Maine Ethics Commission. Ballot qualification status was referenced from the [Maine Secretary of State's Office](http://www.maine.gov/sos/cec/elec/upcoming/index.html).
+
+The contribution files were cleaned using OpenRefine, to allow for more accurate grouping of contributions to certain entities that were inconsistently identified across different campaign reports. For instance, this cleaning standardized names that may have been reported as `[First Name] [Last Name]` in one case and `[Last Name], [First Name]` in other instances.
+
+It also standardized the name of companies or political action committees that appeared multiple times throughout candidate reports.
